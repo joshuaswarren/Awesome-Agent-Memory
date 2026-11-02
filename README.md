@@ -1635,3 +1635,7 @@ Made with ❤️ by [Bloo-Mind AI Ltd](https://www.bloo-mind.ai/) and the Ubiqui
     &nbsp;&nbsp;&nbsp;
     <img src="assets/TeleAI.png" alt="TeleAI Logo" width="120px" />
 </div>
+
+## Contributors
+
+Everyone credited so far: [CONTRIBUTORS.md](CONTRIBUTORS.md).
